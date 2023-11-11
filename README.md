@@ -1,7 +1,34 @@
 # Submarine-project-Arduino
-// Program by Sourbh Kumar under GPL 3.0 
-// Can be shared and reproduced for educational purposes //Submarine control program to operate the propeller and DIVE IN - DIVE OUT Feature with NodeMCU wifi connectivity. 
-// App design can be found at MIT APP INVENTOR platform @Sourbh_Kumar Projects.
+Project Title: Submarine Control Program with NodeMCU WiFi Connectivity
+
+Author: Sourbh Kumar
+
+License: GNU General Public License v3.0
+
+Usage: Open-source, shareable, and reproducible for educational purposes
+
+Summary:
+This project, developed by Sourbh Kumar under the GPL 3.0 license, presents a Submarine Control Program designed for educational exploration. The program facilitates the operation of the propeller and includes a unique DIVE IN - DIVE OUT feature. Leveraging NodeMCU WiFi connectivity, this project introduces a modern and connected approach to submarine control systems.
+
+***Key Features:
+
+Propeller Operation
+DIVE IN - DIVE OUT Feature
+NodeMCU WiFi Connectivity
+
+***App Design:
+The graphical user interface for this program is designed using the MIT App Inventor platform. For further details and to explore the app design, visit @Sourbh_Kumar Projects on MIT App Inventor.
+
+***License Information:
+This project is released under the GNU General Public License v3.0, enabling users to share, modify, and reproduce the code for educational purposes. Please refer to the license file for more details.
+
+***How to Contribute:
+Contributions to the project are welcome. Feel free to fork the repository, make improvements, and submit pull requests. Let's collaborate to enhance this educational submarine control program.
+
+Connect with the Author:
+For more projects and updates from Sourbh Kumar, follow @Sourbh_Kumar on GitHub.
+
+Explore the exciting world of underwater control systems with this Submarine Control Program. Happy coding!
 
 
 Simple Submarine project programming and App design for NODEMCU microcontroller.
